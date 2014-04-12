@@ -14,7 +14,7 @@ var tvShows=prompt("How many television shows do you watch per week?");
 
 console.log("How many television shows do you watch per week?");
 
-//Variable for current year
+//Variable for current year and hour
 var weeksinaYear = 52;
 var hour = 1;
 
