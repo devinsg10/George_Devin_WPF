@@ -39,9 +39,9 @@ console.log(name+" you have been at "+job+" since "+tenure+", that is awesome!")
 
 var futureCompany = prompt("What company do you see yourself working for after you get your degree?");
 
-var futureYear = prompt("what year do you think it will be when you get that career at "+futureCompany+"?");
+var futureYear = prompt("what year do you think it will be when you start career your at "+futureCompany+"?");
 
-console.log("what year do you think it will be when you get that career at "+futureCompany+"?");
+console.log("what year do you think it will be when you start your career at "+futureCompany+"?");
 
 var yearGoal = Number(futureYear) - Number(currentYear)
 
