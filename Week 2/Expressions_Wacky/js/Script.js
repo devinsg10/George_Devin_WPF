@@ -8,7 +8,7 @@ var name = prompt("Type in your name");
 
 //alert the user 
 
-alert("Hello "+name+"! We have some more questions for you!");
+alert("Hello "+name+"! Boy do I have a wacky conclusion for you! Just answer a couple of questions and see what it is.");
 
 var tvShows=prompt("How many television shows do you watch per week?");
 
