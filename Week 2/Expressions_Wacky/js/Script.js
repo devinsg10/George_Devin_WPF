@@ -23,10 +23,10 @@ var hoursperYear = weeksinaYear * Number(tvShows) * Number(hour);
 
 //Alert the user of hours per year
 
-alert(name+" based on my calculations you watch approximately "+hoursperYear+" hours of television shows on an anual basis.");
+alert(name+" after reviewing the results from my calculations, the conclusion is that you watch approximately "+hoursperYear+" hours of television shows on an anual basis.");
 
 //console.log it out too
 
-console.log(name+" based on my calculations you watch approximately "+hoursperYear+" hours of television shows on an anual basis.");
+console.log(name+" after reviewing the results from my calculations, the conclusion is that you watch approximately "+hoursperYear+" hours of television shows on an anual basis.")
 
 
