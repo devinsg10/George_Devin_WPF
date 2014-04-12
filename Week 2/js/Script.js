@@ -28,7 +28,6 @@ var tenure = currentYear - Number(years);
 
 alert(name+" you have been at "+job+" since "+tenure+", that is awesome!");
 
-//console.log it out too
 
 console.log(name+" you have been at "+job+" since "+tenure+", that is awesome!");
 
