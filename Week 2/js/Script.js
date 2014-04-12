@@ -2,7 +2,6 @@
 
 // Figure out how many years at current job and how many years till they get to the dream job
 
-
 //Create variable to get person's name
 
 var name = prompt("Type in your name");
