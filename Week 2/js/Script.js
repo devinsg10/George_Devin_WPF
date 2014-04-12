@@ -48,6 +48,6 @@ alert("You will be working at "+futureCompany+" "+yearGoal+" years from this cur
 
 //Bringing it all together
 
-alert(name+" I see a bright future with "+futureCompany+" in the next "+yearGoal+" years. Just stick it out with "+job+" until "+futureYear+".");
+alert(name+" I see a vibrant and exciting future with "+futureCompany+" for you in the next "+yearGoal+" years. Just stick it out with your current job at "+job+" until "+futureYear+".");
 
-console.log(name+" I see a bright future with "+futureCompany+" in the next "+yearGoal+" years. Just stick it out with "+job+" until "+futureYear+".");
+console.log(name+" I see a vibrant and exciting future with "+futureCompany+" for you in the next "+yearGoal+" years. Just stick it out with your current job at "+job+" until "+futureYear+".");
