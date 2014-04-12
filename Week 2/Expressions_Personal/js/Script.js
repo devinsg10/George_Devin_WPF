@@ -2,7 +2,7 @@
 
 // Figure out what year you graduated and how old you will be when we graduate
 
-//Create variable to get person's name
+//Create variable to your name
 
 var name = prompt("Type in your name");
 
@@ -14,13 +14,13 @@ var years=prompt("How many years will it be before you finish college?");
 
 console.log("How many years will it be before you finish college?");
 
-//Variable for current year
+//Variable for the current year
 var currentYear = 2014;
 
-//Variable graduation date
+//Variable your graduation date
 var graduationDate = currentYear + Number(years);
 
-//Alert the user of graduation date
+//Alert the user of your graduation date
 
 alert(name+" you will graduate in "+graduationDate+".");
 
