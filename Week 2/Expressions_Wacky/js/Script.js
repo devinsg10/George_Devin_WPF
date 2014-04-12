@@ -29,3 +29,4 @@ alert(name+" after reviewing the results from my calculations, the conclusion is
 console.log(name+" after reviewing the results from my calculations, the conclusion is that you watch approximately "+hoursperYear+" hours of television shows on an anual basis.")
 
 
+
