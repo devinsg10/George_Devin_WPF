@@ -31,6 +31,7 @@ console.log(name+" you will graduate in "+graduationDate+".");
 
 
 
+
 //Let's try another.
 
 var age = prompt("How old are you?");
