@@ -44,7 +44,7 @@ console.log("what year do you think it will be when you start your career at "+f
 
 var yearGoal = Number(futureYear) - Number(currentYear)
 
-alert("You will be working at "+futureCompany+" "+yearGoal+" years from this year.");
+alert("You will be working at "+futureCompany+" "+yearGoal+" years from this current year.");
 
 //Bringing it all together
 
