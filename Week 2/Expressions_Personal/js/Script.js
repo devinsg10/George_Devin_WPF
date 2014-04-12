@@ -1,6 +1,6 @@
 // JavaScript File
 
-// Figure out what year we graduate and how old we will be when we graduate
+// Figure out what year you graduated and how old you will be when we graduate
 
 //Create variable to get person's name
 
@@ -8,7 +8,7 @@ var name = prompt("Type in your name");
 
 //alert the user 
 
-alert("Hello "+name+"! We have some more questions for you!");
+alert("Hello "+name+"! I have some more questions for you!");
 
 var years=prompt("How many years will it be before you finish college?");
 
